@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nom": "Alice Dupont",
+        "couleur": "#0000FF",
+        "email": "alice.dupont@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "user"
+    },
+    {
+        "id": 2,
+        "nom": "Mohamed Alami",
+        "couleur": "#008000",
+        "email": "mohamed.alami@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "admin"
+    },
+    {
+        "id": 3,
+        "nom": "Carlos Rodriguez",
+        "couleur": "#FF0000",
+        "email": "carlos.rodriguez@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "user"
+    },
+    {
+        "id": 4,
+        "nom": "Emma Fischer",
+        "couleur": "#FFFF00",
+        "email": "emma.fischer@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "user"
+    },
+    {
+        "id": 5,
+        "nom": "Yuki Tanaka",
+        "couleur": "#800080",
+        "email": "yuki.tanaka@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "admin"
+    },
+    {
+        "id": 6,
+        "nom": "Chen Wei",
+        "couleur": "#FFA500",
+        "email": "chen.wei@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "user"
+    },
+    {
+        "id": 7,
+        "nom": "Olivia Smith",
+        "couleur": "#FFC0CB",
+        "email": "olivia.smith@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "user"
+    },
+    {
+        "id": 8,
+        "nom": "Arjun Patel",
+        "couleur": "#808080",
+        "email": "arjun.patel@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "admin"
+    },
+    {
+        "id": 9,
+        "nom": "Sofia García",
+        "couleur": "#40E0D0",
+        "email": "sofia.garcia@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "user"
+    },
+    {
+        "id": 10,
+        "nom": "Liam Johnson",
+        "couleur": "#A52A2A",
+        "email": "liam.johnson@example.com",
+        "password": "$2y$10$rHe5nyCSfifF3..q8AKt9uCm3GRm.PvSNanq3nxmOhe8cc/52MBoK",
+        "statut": "admin"
+    }
+]
